@@ -1,0 +1,13 @@
+#profile-img {
+margin-top: 150px;
+}
+
+#projects-section{
+    min-height: 100vh;
+    background-color: rgb(96, 153, 190);
+    padding: 20px;
+}
+
+#main-section{
+    height:100vh;
+}
